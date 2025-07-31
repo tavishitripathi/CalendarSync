@@ -21,7 +21,7 @@ Clone the repository using the following command:
 
 ```bash
 
-git clone https://github.com/RITIKYADAV0070/Calendarsync.git
+git clone https://github.com/tavishitripathi/Calendarsync.git
 ```
 ### 2. Install Dependencies
 Navigate to the project directory and install the necessary dependencies:
